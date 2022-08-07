@@ -4,7 +4,6 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import org.springframework.web.multipart.MultipartFile;
 
 import javax.persistence.*;
-
 @Entity
 public class DocumentoAlmacenado {
     @Id
